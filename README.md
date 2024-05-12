@@ -15,4 +15,4 @@ Achievements in the Query:
 3.Output Clarity: The query provides clear output by listing the item types with prime eligibility first, followed by those with non-prime eligibility, along with the maximum number of batches that can be stocked for each category. This ensures easy interpretation of the results and aids in decision-making regarding warehouse stocking strategies.
 
 contains:
-  1. Two .sql file ,One Containing DDL & DML Statement and other containing DQL Statement
+Two .sql file ,One Containing DDL & DML Statement and other containing DQL Statement
